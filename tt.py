@@ -222,4 +222,3 @@ e
 #             if i == j:
 #                 arr[i, j] = 1
 #                 return arr
-           
